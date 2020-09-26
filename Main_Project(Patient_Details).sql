@@ -5,7 +5,7 @@ Go
 Use master;
 GO
 
---IF DB_ID ('VesselsDB') IS NOT NULL DROP DATABASE VesselsDB;
+--IF DB_ID ('MedicalTestDB') IS NOT NULL DROP DATABASE MedicalTestDB;
 
 DROP DATABASE  IF EXISTS MedicalTestDB;
 
